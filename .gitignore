@@ -1,0 +1,35 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vs/
+*.user
+*.suo
+.idea/
+*.code-workspace
+*.pidb
+*.userprefs
+
+# Build outputs
+bin/
+obj/
+Debug/
+Release/
+
+# NuGet
+*.nupkg
+packages/
+project.lock.json
+
+# MonoGame-specific
+*.mgcb.cs
+*.mgcb.cache
+Content/bin/
+Content/obj/
+*.xnb
+
+# Log and temp files
+*.log
+*.tmp
+*.temp
